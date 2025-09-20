@@ -30,7 +30,7 @@ Our expertise spans full-stack web development, machine learning, and cloud comp
     </tr>
     <tr>
       <td>Alie Pratama</td>
-      <td>Full-Stack Developer</td>
+      <td>UI/UX, Frontend, AI Engineer</td>
       <td>
         <a href="https://github.com/aliepratama"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
       </td>
@@ -39,11 +39,13 @@ Our expertise spans full-stack web development, machine learning, and cloud comp
       <td>Joko Yuliyanto</td>
       <td>Backend, DevOps, System Analyst</td>
       <td>
-        <a href="https://github.com/jokoyuliyanto"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://github.com/Jekoyu"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
       </td>
     </tr>
   </table>
 </div>
+
+<img src="/assets/cover.png">
 
 ## 🏠 RentVerse Frontend - Modern Property Rental Platform
 *A comprehensive rental property platform that connects property owners with tenants*
